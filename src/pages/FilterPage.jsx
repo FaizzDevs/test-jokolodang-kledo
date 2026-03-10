@@ -261,7 +261,7 @@ function GitHubLink() {
     return (
         <div className="mt-6 pt-6 border-t border-gray-100">
             <a
-                href="https://github.com/username/repo"
+                href="https://github.com/FaizzDevs/test-jokolodang-kledo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-xs text-gray-500 hover:text-blue-500 transition-colors"
